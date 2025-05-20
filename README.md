@@ -1,5 +1,5 @@
 <figure>
-    <img src="/jokes.png" width="500" height="250">
+    <img src="/jokes.png" width="1000" height="500">
          alt="Screenshot of app">
     <figcaption>Screenshot of live app.</figcaption>
 </figure>
