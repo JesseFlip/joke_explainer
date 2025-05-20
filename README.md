@@ -1,6 +1,4 @@
-# Joke Explainer
-
-![Screenshot of the app](placeholder_screenshot.png)
+![Screenshot of app running](/jokes.png)
 
 ## Instructions
 
