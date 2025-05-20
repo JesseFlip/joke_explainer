@@ -1,5 +1,8 @@
-![Screenshot of app running](/jokes.png)
-
+<figure>
+    <img src="/jokes.png" width="200" height="100">
+         alt="Screenshot of app">
+    <figcaption>Screenshot of live app.</figcaption>
+</figure>
 ## Instructions
 
 1.  **Clone the repository** to your local machine or open it in GitHub Codespaces.
