@@ -34,7 +34,7 @@ translations = {
     # Add even more languages with their symbols and translations as needed
 }
 
-st.title("Joke Explainer")
+st.title("Flip's Joke Explainer")
 
 joke_text = st.text_area("Paste your joke here:")
 
