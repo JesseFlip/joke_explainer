@@ -1,4 +1,4 @@
-# Visit the app [Here](https://jokeexplainer.streamlit.app)
+# Visit the app [Here](https://flipsjokeexplainer.streamlit.app/)
 
 or launch the app yourself! 
 
