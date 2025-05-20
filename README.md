@@ -1,8 +1,6 @@
 # Visit the app [Here](https://jokeexplainer.streamlit.app)
 
-or if you want to make this app yourself see the instructions below
-
-
+or launch the app yourself! 
 
 ## Instructions
 
