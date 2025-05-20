@@ -1,8 +1,9 @@
-<figure>
-    <img src="/jokes.png" width="1000" height="500">
-         alt="Screenshot of app">
-    <figcaption>Screenshot of live app.</figcaption>
-</figure>
+# Visit the app [Here](https://jokeexplainer.streamlit.app)
+
+or if you want to make this app yourself see the instructions below
+
+
+
 ## Instructions
 
 1.  **Clone the repository** to your local machine or open it in GitHub Codespaces.
@@ -26,3 +27,5 @@
 ## Getting Your OpenAI API Key
 
 You will need an OpenAI API key to use this application. You can obtain one by signing up at the [OpenAI Platform](https://platform.openai.com/). Once you have an account, you can create a new API key in your account settings.
+
+<img src="/jokes.png" width="500" height="750">
