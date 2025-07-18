@@ -1,4 +1,4 @@
-# Visit the app [Here](https://flipsjokeexplainer.streamlit.app/)
+# Visit the app [Here](https://flipsjokeexplainer.streamlit.app/) - Vibe Code Project using GitHub Codespaces
 
 or launch the app yourself! 
 
